@@ -1,4 +1,6 @@
-package org.example;
+package org.example.server;
+
+import org.example.Person;
 
 public class Hello implements HelloMBean {
     private String name;

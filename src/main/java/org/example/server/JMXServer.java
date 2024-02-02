@@ -1,6 +1,5 @@
-package org.example;
+package org.example.server;
 
-import javax.management.Attribute;
 import javax.management.MBeanServer;
 import javax.management.ObjectName;
 import java.lang.management.ManagementFactory;

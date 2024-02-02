@@ -5,7 +5,7 @@
     <option name="VM_PARAMETERS" value="-XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=$PROJECT_DIR$/../../../../jstack/heapdump.bin -XX:InitialRAMPercentage=40 -XX:MaxRAMPercentage=65 -XshowSettings:vm" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="org.example.*" />
+        <option name="PATTERN" value="org.example.server.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
